@@ -6,7 +6,7 @@ After the first lesson of ID module, I've gained a brief perspective about web d
 
 ## week 2:
 
-This week lesson is about 'Semantic-CSS' where I have a deeper learning about how semantics work on web development. I discovered how semantics like '<div>', '<header>', '<footer>', '<section>' and many more are use to seperate content in HTML. Not to mention, I get to know how to apply different colors and fonts on text. And most importantly, classes and attributes are also taught where it is used to group elements for styling.
+This week lesson is about 'Semantic-CSS' where I have a deeper learning about how semantics work on web development. I discovered how semantics like div, header, footer, section and many more are use to seperate content in HTML. Not to mention, I get to know how to apply different colors and fonts on text. And most importantly, classes and attributes are also taught where it is used to group elements for styling.
 
 ## week 3:
 
