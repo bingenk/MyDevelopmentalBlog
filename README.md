@@ -21,3 +21,5 @@ For this week there isn't too much stuff to digest. However, I find responsive i
 As this week is whitespace week, I used the time to look through all the past tutorial slides and the CAs I have done to have a quick revision and recap to work on my assignment where I have decided to design a fictional company of my own. Futhermore, I also spend some time watching through the videos published on linkedin learning about JavaScript and was able to complete the week's CAs.
 
 ## week 6:
+
+For week 6, I did learned some basic knowledges about JavaScript which consists of objects and Dom. Additionally, the lesson do also include a recap about linkedin learning for week 5. I enjoyed learning about JavaScript as it is important when it comes to page interaction when building a web.
