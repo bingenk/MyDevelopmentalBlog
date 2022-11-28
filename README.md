@@ -12,7 +12,7 @@ This week lesson is about 'Semantic-CSS' where I have a deeper learning about ho
 
 This week in fact was a bit challenging than the previous week where I learned about Media queries which is used to modify the CSS of a site depending on viewport size and device type. Apart from this was Flexbox, where it is easier to align items vertically and horizontally using rows and columns. Last but not least was Adobe XD, a platform for building wireframe prototypes where I can have a clearer idea and image on how my project layout should be like.
 
-# week 4:
+## week 4:
 
 For this week there isn't too much stuff to digest. However, I find responsive images interesting where I can have a better design control at the same time better performance when loading higher resolution images. After some learning and practices about how responsive images works, we were assigned for our first assignment for the module about designing and developing a website where I get to choose from fictional or real company site of my own to develop.
 
