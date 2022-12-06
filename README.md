@@ -23,3 +23,7 @@ As this week is whitespace week, I used the time to look through all the past tu
 ## week 6:
 
 For week 6, I did learned some basic knowledges about JavaScript which consists of objects and Dom. Additionally, the lesson do also include a recap about linkedin learning for week 5. I enjoyed learning about JavaScript as it is important when it comes to page interaction when building a web.
+
+## week 7:
+
+For week 7, I've went through Document Object Model(DOM) which is about the model of the webpage and defines the structure of the documents and the way they are accessed. It took me some time to digest about DOM as there are multiple ways to access elements. Moreover, was about Event Handling which is about event objects where it tells information about the event, and the element it happened. Last but not least, information validation to avoid user from entering invalid inputs where it consist of server-side validation and client-side validation. And this week is the submission deadline for the assignment so I managed to wrap everything up and submit.
