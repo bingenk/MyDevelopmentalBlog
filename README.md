@@ -33,3 +33,5 @@ For week 7, I've went through Document Object Model(DOM) which is about the mode
 This week is about jQuery which is a JavaScript library that enables faster and easier way for writing JavaScript. By using jQuery it allows me to select or find elements and update the content and size and enables simplification of event handling. Besides, I got to learn about Ajax which is a technique for loading data into art of page without the need to refresh the entire webpage. Moreover, was about accessing API which include a 'fetch' function where i find it interesting as it allows to fetch resources across the network.
 
 ## week 9:
+
+...
