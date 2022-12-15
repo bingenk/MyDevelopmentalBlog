@@ -27,3 +27,9 @@ For week 6, I did learned some basic knowledges about JavaScript which consists 
 ## week 7:
 
 For week 7, I've went through Document Object Model(DOM) which is about the model of the webpage and defines the structure of the documents and the way they are accessed. It took me some time to digest about DOM as there are multiple ways to access elements. Moreover, was about Event Handling which is about event objects where it tells information about the event, and the element it happened. Last but not least, information validation to avoid user from entering invalid inputs where it consist of server-side validation and client-side validation. And this week is the submission deadline for the assignment so I managed to wrap everything up and submit.
+
+## week 8:
+
+This week is about jQuery which is a JavaScript library that enables faster and easier way for writing JavaScript. By using jQuery it allows me to select or find elements and update the content and size and enables simplification of event handling. Besides, I got to learn about Ajax which is a technique for loading data into art of page without the need to refresh the entire webpage. Moreover, was about accessing API which include a 'fetch' function where i find it interesting as it allows to fetch resources across the network.
+
+## week 9:
